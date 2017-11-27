@@ -4,8 +4,8 @@ Have you ever wondered how the stock market works?  Or are you curious about how
 
 Currently, I am working on the following items, but check back frequently.
   * Dividend Discount Model (11_20_17 Published)
-  * Weighted Average Cost of Capital Model (11_27_17 Published)
+  * Weighted Average Cost of Capital Model (Coming Soon)
   * Relative Valuation (Coming Soon)
   * Data Science Applications in Finance (Coming Soon)
-  * Blog (Coming Soon)
+
   
